@@ -1,0 +1,34 @@
+- Copying zip to temp directory
+- Installing Audio_misc._settings-v1.2.3-1203.zip
+- Device is system-as-root
+Archive:  /data/user/0/rnfxwbrd.ewz.eekb.k/cache/flash/install.zip
+  inflating: module.prop
+**********************
+ Audio misc. settings 
+ by zyhk 
+**********************
+Archive:  /data/user/0/rnfxwbrd.ewz.eekb.k/cache/flash/install.zip
+  inflating: customize.sh
+*******************
+ Powered by Magisk 
+*******************
+Archive:  /data/user/0/rnfxwbrd.ewz.eekb.k/cache/flash/install.zip
+  inflating: LICENSE
+  inflating: customize-functions.sh
+  inflating: customize.sh
+  inflating: module.prop
+  inflating: post-fs-data.sh
+  inflating: service.sh
+  inflating: system.prop
+  inflating: system.prop-workaround
+  inflating: uninstall.sh
+- Extracting module files
+- Replace target: /system/vendor/lib/libalsautils.so
+touch: /data/adb/modules_update/audio-misc-settings/system/vendor/lib/libalsautils.so/.replace: Not a directory
+/data/user/0/rnfxwbrd.ewz.eekb.k/cache/flash/update-binary: line 680: can't create /data/adb/modules_update/audio-misc-settings/system/vendor/lib/libalsautils.so/.replace: nonexistent directory
+chmod: /data/adb/modules_update/audio-misc-settings/system/vendor/lib/libalsautils.so/.replace: Not a directory
+touch: /data/adb/modules_update/audio-misc-settings/system/vendor/lib64/libalsautils.so/.replace: Not a directory
+- Replace target: /system/vendor/lib64/libalsautils.so
+/data/user/0/rnfxwbrd.ewz.eekb.k/cache/flash/update-binary: line 680: can't create /data/adb/modules_update/audio-misc-settings/system/vendor/lib64/libalsautils.so/.replace: nonexistent directory
+chmod: /data/adb/modules_update/audio-misc-settings/system/vendor/lib64/libalsautils.so/.replace: Not a directory
+- Done
